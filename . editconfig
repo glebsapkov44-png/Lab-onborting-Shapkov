@@ -18,3 +18,4 @@ insert_final_newline = true
 
 # Особые правила для файлов разметки
 [*.{yml,yaml}]
+indent_size = 2
